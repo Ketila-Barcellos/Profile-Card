@@ -30,6 +30,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 During the creation of this project, I was able to consolidate and expand my knowledge in various areas of front-end development. Some of the key learnings I highlight include:
 
 -Use of semantic HTML5 markup: I deepened my understanding of the importance of semantic HTML5 markup to improve accessibility and indexing of web pages by search engines.
+
 -Styling with custom CSS: I explored advanced styling techniques using custom CSS properties, enabling me to create flexible and responsive layouts.
 
 These are just some of the valuable lessons I gained during the development process of this project. I look forward to applying this knowledge to future projects and continuing to refine my skills as a front-end developer.
